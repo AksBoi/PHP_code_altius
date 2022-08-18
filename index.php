@@ -6,7 +6,7 @@ session_start();
 // if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
 //     header("location: register.php");
 //     exit;
-// }
+// } This is edited
  
 // Include config file
 require_once "config.php";
